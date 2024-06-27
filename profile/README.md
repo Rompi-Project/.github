@@ -29,6 +29,6 @@ Siga-nos aqui no GitHub para atualizações sobre nossos projetos e descubra com
 
 **[Comece agora!](https://rompi.com.br/)** Fale conosco e transforme a sua empresa.
 
-![Logo Rompi](https://rompi.com.br/assets/logo.png)  <!-- Substitua este link pelo caminho correto para o logo, se disponível -->
+![Logo Rompi](https://rompi.com.br/wp-content/uploads/2023/04/logo-rompi-02.svg)  <!-- Substitua este link pelo caminho correto para o logo, se disponível -->
 
 **Conecte-se conosco:** [LinkedIn](https://linkedin.com/in/rompi) | [Instagram](https://instagram.com/rompi) | [Facebook](https://facebook.com/rompi)
