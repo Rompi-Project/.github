@@ -14,7 +14,7 @@ Com mais de 12 anos de experiência, a Rompi se destaca como seu parceiro estrat
 
 ### Por Que Escolher a Rompi?
 
-- 🏆 **+12 anos** de atuação no mercado.
+- 🏆 **+4 anos** de atuação no mercado.
 - 💼 **+100 projetos** executados com excelência.
 - 🤝 **+15 parceiros** estratégicos de tecnologia.
 - 🧠 **+50 profissionais** treinados e altamente qualificados.
